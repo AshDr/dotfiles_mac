@@ -1,0 +1,42 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Code/java/demo1">
+          <value>
+            <RecentProjectMetaInfo frameTitle="demo1 – application.yaml" projectWorkspaceId="2WDEaW7KeqzQm4861SROynxi33P">
+              <option name="activationTimestamp" value="1699371211165" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-232.9921.47" />
+              <option name="buildTimestamp" value="1694553816252" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="0" y="37" width="1470" height="861" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1699365623345" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/java/librarydbsys">
+          <value>
+            <RecentProjectMetaInfo frameTitle="librarydbsys – BookController.java" opened="true" projectWorkspaceId="2Whtwv0jiDKCng7k2GYLaeTE2Jb">
+              <option name="activationTimestamp" value="1700484405765" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-232.9921.47" />
+              <option name="buildTimestamp" value="1694553822547" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="0" y="37" width="1470" height="861" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1699863228226" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/Code/java/librarydbsys" />
+    <option name="lastProjectLocation" value="$USER_HOME$/Code/java" />
+  </component>
+</application>
